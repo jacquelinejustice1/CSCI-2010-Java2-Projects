@@ -3,3 +3,5 @@ They are far from perfect, but I wanted to show my works to the public.
 I have not perfected/editted the files after receiving grades, so there is likely to be mistakes in the code. 
 These programs show examples of organized codes with comments, FXML files, structures, problem solving, and more.
 I used NetBeans for these projects, so they might not be as advanced as one might hope.
+There are the labs labeled as: Lab 1-12 2011 (the class name) 
+The main projects are labeled as: Assignments (numbers)
